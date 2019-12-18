@@ -1,0 +1,14 @@
+{
+  "name": "GetBetter",
+  "version": "1.0.0",
+  "description": "getbetter.top",
+  "author": "29@29lab.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
